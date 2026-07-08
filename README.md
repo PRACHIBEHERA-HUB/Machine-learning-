@@ -60,28 +60,4 @@ The dataset contains information about houses, including:
 - Model Evaluation
 - Data Visualization
 
-## 📁 Project Structure
-```
 
-```
-House-Price-Prediction/
-│── House_Price_Prediction.ipynb
-│── Housing.csv
-│── README.md
-```
-
-```md
-##  Output
-The model predicts house prices based on the given property details and evaluates prediction accuracy using standard regression metrics.
-
-##  Future Improvements
-- Implement advanced regression algorithms.
-- Perform hyperparameter tuning.
-- Build a web application using Flask or Streamlit for real-time predictions.
-
-## 👩‍💻 Author
-**Prachi Behera**
-
-B.Tech CSE (AI & ML)
-
-Passionate about Machine Learning, Data Analytics, and Artificial Intelligence.
