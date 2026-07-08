@@ -113,3 +113,61 @@ The dataset contains:
 - Data Visualization
 - Regression Analysis
 
+
+
+
+#  Customer Segmentation using Machine Learning
+
+##  Project Overview
+This project focuses on customer segmentation using Machine Learning techniques. The goal is to group customers based on demographic and behavioral characteristics, enabling businesses to understand different customer profiles and create targeted marketing strategies.
+
+##  Objective
+- Analyze customer demographics and behavior.
+- Segment customers into meaningful groups.
+- Identify patterns based on age, profession, spending score, and work experience.
+- Support data-driven business and marketing decisions.
+
+##  Dataset
+The dataset contains customer information, including:
+- ID
+- Gender
+- Ever Married
+- Age
+- Graduated
+- Profession
+- Work Experience
+- Spending Score
+- Family Size
+- Var_1
+
+##  Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+##  Project Workflow
+1. Import required libraries.
+2. Load the customer dataset.
+3. Perform data cleaning and preprocessing.
+4. Handle missing values and encode categorical features.
+5. Explore customer characteristics through data visualization.
+6. Apply a Machine Learning clustering algorithm.
+7. Analyze customer segments.
+8. Visualize the resulting clusters.
+
+##  Machine Learning Model
+- K-Means Clustering
+
+##  Features
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Encoding
+- Customer Segmentation
+- Cluster Visualization
+- Business Insights
+
+
+
