@@ -171,3 +171,62 @@ The dataset contains customer information, including:
 
 
 
+#  Diabetes Prediction using Machine Learning
+
+##  Project Overview
+This project predicts whether a person is likely to have diabetes based on medical and health-related attributes using Machine Learning. The objective is to develop a predictive model that assists in the early detection of diabetes and supports data-driven healthcare decisions.
+
+##  Objective
+- Predict the likelihood of diabetes using patient health data.
+- Analyze important medical features affecting diabetes.
+- Train and evaluate a Machine Learning classification model.
+- Improve prediction accuracy through data preprocessing.
+
+##  Dataset
+The dataset includes the following medical features:
+- Pregnancies
+- Glucose
+- Blood Pressure
+- Skin Thickness
+- Insulin
+- BMI (Body Mass Index)
+- Diabetes Pedigree Function
+- Age
+- Outcome (Target Variable)
+
+##  Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+##  Project Workflow
+1. Import required libraries.
+2. Load the diabetes dataset.
+3. Perform data cleaning and preprocessing.
+4. Split the dataset into training and testing sets.
+5. Train the Machine Learning model.
+6. Predict diabetes outcomes.
+7. Evaluate the model using classification metrics.
+8. Visualize important insights.
+
+##  Machine Learning Model
+- Logistic Regression
+
+##  Evaluation Metrics
+- Accuracy Score
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+
+##  Features
+- Data Cleaning
+- Feature Selection
+- Model Training
+- Diabetes Prediction
+- Model Evaluation
+- Data Visualization
+
